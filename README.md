@@ -174,3 +174,12 @@ $ npm test
 - Follow the instructions above to submit the assignment
 
 ##
+https://git.heroku.com/ancient-ocean-38130.git
+
+
+#Thank you for taking the time to look at my projects,
+
+https://git.heroku.com/ancient-ocean-38130.git
+
+#Also please follow my progress on youtube: 
+https://www.youtube.com/channel/UCXv4p-lDYeWXPlnoRFYCSUg
