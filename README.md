@@ -1,11 +1,15 @@
 # Deploy All The Things
-Third Project in the OPS200 * Module @ San Diego Code School
+
+##Third Project in the OPS200 * Module @ San Diego Code School
+
+#Reporting live from KTRAV NEWS we will be bringin you your local forecast, with: 
 
 #Author - Michel Roberts JR.
 
-#Modified by Travis Ripley, * Started Monday April 22th, 2019 10:30am
-## You don't got to love it, because the hood's gon' love it. 
-np
+#Modified by Travis Ripley, * Started Monday April 22nd, 2019 10:30am
+
+## Right after this commercial break:
+
 
 ### Introduction
 

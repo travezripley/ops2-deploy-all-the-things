@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://ancient-ocean-38130.herokuapp.com",
+  "change_calculator": "https://tsr-react100-change-calculator.herokuapp.com",
+  "mortgage_calculator": "https://tsr-react100-mortgage-calc.herokuapp.com",
+  "top_spots": "https://tsr-react100-sd-topspots.herokuapp.com",
+  "vstda": "https://tsr-vstda.herokuapp.com"
 }
